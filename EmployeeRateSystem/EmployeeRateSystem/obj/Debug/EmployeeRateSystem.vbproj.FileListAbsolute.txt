@@ -1,0 +1,16 @@
+c:\users\em\documents\visual studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\bin\Debug\EmployeeRateSystem.exe.config
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\bin\Debug\EmployeeRateSystem.exe
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\bin\Debug\EmployeeRateSystem.pdb
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\bin\Debug\EmployeeRateSystem.xml
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form1.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form2.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Resources.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.vbproj.GenerateResource.Cache
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.exe
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.xml
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.pdb
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form3.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form5.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form6.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form4.resources
+C:\Users\Em\Documents\Visual Studio 2012\Projects\EmployeeRateSystem\EmployeeRateSystem\obj\Debug\EmployeeRateSystem.Form7.resources

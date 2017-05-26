@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EmployeeRateSystem
+</name>
+</assembly>
+<members>
+<member name="T:EmployeeRateSystem.employeeRateSystemDataSet.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet.supervisorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet.supervisorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet.supervisorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.supervisorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(EmployeeRateSystem.employeeRateSystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(EmployeeRateSystem.employeeRateSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(EmployeeRateSystem.employeeRateSystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.UpdateAll(EmployeeRateSystem.employeeRateSystemDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.Civil_Aviation_Authority_of_the_Philippines_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.icon_toolbox_print_small">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.it_photo_120973">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmployeeRateSystem.My.Resources.Resources.Very_Basic_Print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:EmployeeRateSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1.raterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1.raterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1.raterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.raterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(EmployeeRateSystem.employeeRateSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(EmployeeRateSystem.employeeRateSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(EmployeeRateSystem.employeeRateSystemDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.UpdateAll(EmployeeRateSystem.employeeRateSystemDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EmployeeRateSystem.employeeRateSystemDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
